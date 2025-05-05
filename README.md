@@ -1,6 +1,5 @@
-Hi, I’m @GabeJerome. I am a junior computer science major at South Dakota School of Mines and Technology. I am currently interning at NASA! I work in flight software 
-for exercise machines on missions to space. This means I have been busier than usual, so my github activity has slowed. I am passionate about computers and determined 
-to change lives with my knowledge of them. Thank you for stopping by my page. I am happy to speak with anybody that is willing to talk, so I have listed my contact info 
+Hi, I’m Gabe Jerome. I am an entry-level software engineer for Garmin. I started my Garmin journey in June 2025. I work in the marine chart and navigation division where I write low-to-mid-level code. I graduated from South Dakota Mines in May 2025 with a bachelor's degree in computer science.
+I am passionate about software engineering and I am determined to change lives with my knowledge. Thank you for stopping by my page. I am happy to speak with anybody that is willing to talk. I have listed my contact info 
 below.
 
 Email: gaberjerome@gmail.com  
